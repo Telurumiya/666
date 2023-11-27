@@ -2,7 +2,7 @@
 #include <math.h>
 #include <string.h>
 #include "calculate.h"
-
+//lalallalal
 float Calculate(float Numeral, char Operation[4])
 {
 float SecondNumeral;
